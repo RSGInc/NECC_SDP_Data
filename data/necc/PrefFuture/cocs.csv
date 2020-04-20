@@ -1,22 +1,22 @@
-ID,district,BostonMetroManchesterNashuaNH,ProvidenceNewBedfordFallRiverRIMA,NorwichNewLondonCTWindhamCT,SpringfieldMAWorcesterMAPittsfieldMA,HartfordWestEastCT,NewHavenMilfordCTLitchfieldCT,BridgeportStamfordNorwalkCT,NewYorkCityNYWestchesterNYLongIsland,NewarkNJNorthernNewJersey,TrentonEwingNJ,PhiladelphiaMetroReadingPA,NewCastleDECecilMDSalemNJ,BaltimoreMetro,WashingtonDCMetro,AtlanticCityRestofNewJersey,PoughkeepsieNewburgMiddletownNY,KingstonNYHudsonNY,AlbanySchenectadyTroyNY,LancasterPA,HarrisburgPALancasterPA,RichmondMetroVA
-1,BostonMetroManchesterNashuaNH,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,ProvidenceNewBedfordFallRiverRIMA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3,NorwichNewLondonCTWindhamCT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4,SpringfieldMAWorcesterMAPittsfieldMA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-5,HartfordWestEastCT,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-6,NewHavenMilfordCTLitchfieldCT,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-7,BridgeportStamfordNorwalkCT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,NewYorkCityNYWestchesterNYLongIsland,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-9,NewarkNJNorthernNewJersey,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-10,TrentonEwingNJ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-11,PhiladelphiaMetroReadingPA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-12,NewCastleDECecilMDSalemNJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,BaltimoreMetro,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-14,WashingtonDCMetro,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-15,AtlanticCityRestofNewJersey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,PoughkeepsieNewburgMiddletownNY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-17,KingstonNYHudsonNY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-18,AlbanySchenectadyTroyNY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-19,LancasterPA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-20,HarrisburgPALancasterPA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-21,RichmondMetroVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ID,district,"Boston, MA","Providence, RI","Norwich, CT","Springfield, MA","Hartford, CT","New Haven, CT","Bridgeport, CT","New York, NY","Newark, NJ","Trenton, NJ","Philadelphia, PA","New Castle, DE","Baltimore, MD","Washington, DC","Atlantic City, NJ","Poughkeepsie, NY","Kingston, NY","Albany, NY","Lancaster, PA","Harrisburg, PA","Richmond, VA"
+1,"Boston, MA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,"Providence, RI",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,"Norwich, CT",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,"Springfield, MA",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,"Hartford, CT",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,"New Haven, CT",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,"Bridgeport, CT",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,"New York, NY",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,"Newark, NJ",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10,"Trenton, NJ",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+11,"Philadelphia, PA",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+12,"New Castle, DE",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,"Baltimore, MD",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,"Washington, DC",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,"Atlantic City, NJ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,"Poughkeepsie, NY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+17,"Kingston, NY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,"Albany, NY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+19,"Lancaster, PA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,"Harrisburg, PA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+21,"Richmond, VA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
