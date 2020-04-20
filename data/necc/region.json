@@ -82,6 +82,11 @@
       "ConvertAxesToPercent": true
     }
   },
+  "BarMap": {
+    "Default": {
+      "CycleMapTools": false,
+      "ZoneFile": "ZoneShape.json"
+    },
   "GroupedCharts":{
     "Default": {
       "NumberColsGrouped": 1,
