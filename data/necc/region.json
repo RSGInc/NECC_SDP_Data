@@ -36,6 +36,26 @@
             }]
           }]}
         ],
+        "BarMap": [
+          {"name": "Scenario vs. No Action","file": "BarChartAndMapData2.csv","config": "Default", "info":"Rail Demand by scenario by region", "explanation":[{
+            "header": "Summary",
+            "body":[{
+              "type": "unorderedList",
+              "content": ["Passenger rail demand by scenario."]
+            }]
+          },
+          {
+            "header": "Instructions",
+            "body":[{
+              "type": "unorderedList",
+              "content": ["For the left graph: Select/deselect bubbles to add/remove scenarios.",
+              "For the left graph: Hover mouse over graph to see detail.",
+              "For the map: Use the zone drop-down selection to view different scenarios as region colors.",
+              "For the map: Turn on bubbles under layers and use the bubbles drop-down selection to view different scenarios by region.",
+              "Select \"Show Data\" to see tabulation."]
+            }]
+          }]}
+        ],
         "Chord": [{"name":"Rail Demand ODs","config":"Default","file":"ChordData.csv","info":"Passenger Rail Origin-Destination", "explanation":[{
             "header": "Summary",
             "body":[{
