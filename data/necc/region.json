@@ -85,6 +85,7 @@
   "BarMap": {
     "Default": {
       "CycleMapTools": false,
+      "StackAllChartsByDefault": false,
       "ZoneFile": "ZoneShape.json"
     }
   },
