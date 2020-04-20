@@ -16,7 +16,27 @@
     "PrefFuture": {
       "title":"- Preferred Alternative (Future)",
       "visualizations": {
-        "Chord": [{"name":"Rail Demand","config":"Default","file":"ChordData.csv","info":"Passenger Rail ODs", "explanation":[{
+        "BarMap": [
+          {"name": "Rail Demand by Region","file": "BarChartAndMapData.csv","config": "Default", "info":"Rail Demand by purpose by region", "explanation":[{
+            "header": "Summary",
+            "body":[{
+              "type": "unorderedList",
+              "content": ["Passenger rail demand by trip purpose."]
+            }]
+          },
+          {
+            "header": "Instructions",
+            "body":[{
+              "type": "unorderedList",
+              "content": ["For the left graph: Select/deselect bubbles to add/remove trip purposes.",
+              "For the left graph: Hover mouse over graph to see detail.",
+              "For the map: Use the zone drop-down selection to view different trip purposes as region colors.",
+              "For the map: Turn on bubbles under layers and use the bubbles drop-down selection to view different trip purposes by region.",
+              "Select \"Show Data\" to see tabulation."]
+            }]
+          }]}
+        ],
+        "Chord": [{"name":"Rail Demand ODs","config":"Default","file":"ChordData.csv","info":"Passenger Rail Origin-Destination", "explanation":[{
             "header": "Summary",
             "body":[{
               "type": "unorderedList",
@@ -34,7 +54,7 @@
               "Select \"Show Data\" to see tabulation."]
             }]
           }]},
-          {"name":"Passenger Rail Demand Side By Side","config":"SideBySide","file":"ChordData.csv","info":"Passenger Rail ODs", "explanation":[{
+          {"name":"Rail Demand Side By Side","config":"SideBySide","file":"ChordData.csv","info":"Passenger Rail ODs", "explanation":[{
             "header": "Summary",
             "body":[{
               "type": "unorderedList",
