@@ -17,7 +17,7 @@
       "title":"- Preferred Alternative (Future)",
       "visualizations": {
         "BarMap": [
-          {"name": "Scenario vs. No Action","file": "BarChartAndMapData2.csv","config": "Default", "info":"Rail Demand by scenario by region", "explanation":[{
+          {"name": "Scenario vs. No Action","file": "BarChartAndMapData.csv","config": "Default", "info":"Rail Demand by scenario by region", "explanation":[{
             "header": "Summary",
             "body":[{
               "type": "unorderedList",
