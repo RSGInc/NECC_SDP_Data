@@ -1,0 +1,64 @@
+ZONE,COUNTY,TripPurpose,QUANTITY
+1,"Boston, MA",Business,1821167.74776432
+1,"Boston, MA",Journey-to-Work,347176.115370671
+1,"Boston, MA",Non-Business,3415095.72790074
+2,"Providence, RI",Business,804232.474266834
+2,"Providence, RI",Journey-to-Work,203723.380417088
+2,"Providence, RI",Non-Business,1527971.40493546
+3,"Norwich, CT",Business,268402.610794332
+3,"Norwich, CT",Journey-to-Work,41381.5020950845
+3,"Norwich, CT",Non-Business,414130.338834768
+4,"Springfield, MA",Business,154025.084407522
+4,"Springfield, MA",Journey-to-Work,42631.2766721436
+4,"Springfield, MA",Non-Business,418807.827626798
+5,"Hartford, CT",Business,420985.807593384
+5,"Hartford, CT",Journey-to-Work,160008.237376545
+5,"Hartford, CT",Non-Business,1068948.1215619
+6,"New Haven, CT",Business,2079690.32020385
+6,"New Haven, CT",Journey-to-Work,878690.672016773
+6,"New Haven, CT",Non-Business,3305886.23032638
+7,"Bridgeport, CT",Business,872464.472872261
+7,"Bridgeport, CT",Journey-to-Work,266142.0638614
+7,"Bridgeport, CT",Non-Business,1428532.41024978
+8,"New York, NY",Business,8994087.27612148
+8,"New York, NY",Journey-to-Work,2670348.30987872
+8,"New York, NY",Non-Business,20728122.6088931
+9,"Newark, NJ",Business,3596546.33789988
+9,"Newark, NJ",Journey-to-Work,1951877.6347541
+9,"Newark, NJ",Non-Business,8463522.07780475
+10,"Trenton, NJ",Business,2130124.19639923
+10,"Trenton, NJ",Journey-to-Work,1526784.58036738
+10,"Trenton, NJ",Non-Business,6269889.73226999
+11,"Philadelphia, PA",Business,2777674.37205831
+11,"Philadelphia, PA",Journey-to-Work,1068187.5810118
+11,"Philadelphia, PA",Non-Business,7904151.17881395
+12,"New Castle, DE",Business,411990.129618058
+12,"New Castle, DE",Journey-to-Work,194983.113135066
+12,"New Castle, DE",Non-Business,897030.537455453
+13,"Baltimore, MD",Business,745500.102732661
+13,"Baltimore, MD",Journey-to-Work,242487.612426632
+13,"Baltimore, MD",Non-Business,1752782.35030343
+14,"Washington, DC",Business,2021713.9257234
+14,"Washington, DC",Journey-to-Work,601888.960412079
+14,"Washington, DC",Non-Business,4418743.08862083
+15,"Atlantic City, NJ",Business,424858.323915263
+15,"Atlantic City, NJ",Journey-to-Work,107189.358960792
+15,"Atlantic City, NJ",Non-Business,791748.864076255
+16,"Poughkeepsie, NY",Business,334974.350517785
+16,"Poughkeepsie, NY",Journey-to-Work,100264.327644426
+16,"Poughkeepsie, NY",Non-Business,484401.434349136
+17,"Kingston, NY",Business,176947.054755262
+17,"Kingston, NY",Journey-to-Work,51013.0319443737
+17,"Kingston, NY",Non-Business,386912.453620255
+18,"Albany, NY",Business,293489.676788661
+18,"Albany, NY",Journey-to-Work,98068.7878692066
+18,"Albany, NY",Non-Business,776772.360896676
+19,"Lancaster, PA",Business,394678.582667693
+19,"Lancaster, PA",Journey-to-Work,171581.864237057
+19,"Lancaster, PA",Non-Business,1131086.08956247
+20,"Harrisburg, PA",Business,211701.521361993
+20,"Harrisburg, PA",Journey-to-Work,98341.2074559198
+20,"Harrisburg, PA",Non-Business,698318.216435148
+21,"Richmond, VA",Business,350729.843269595
+21,"Richmond, VA",Journey-to-Work,72930.3520286997
+21,"Richmond, VA",Non-Business,558080.558430238
